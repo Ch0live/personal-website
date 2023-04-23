@@ -1,0 +1,6 @@
+:root {
+    --primary: rgb(0, 247, 255);
+    --primary-faded: rgba(0, 247, 255, 0.2);
+
+    --background: var(--primary-faded);
+}
