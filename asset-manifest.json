@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3002168.css",
+    "main.js": "/static/js/main.24475ab8.js",
+    "static/js/787.0834eab1.chunk.js": "/static/js/787.0834eab1.chunk.js",
+    "static/media/loaf-mug-with-cartoon-steam-rising.gif": "/static/media/loaf-mug-with-cartoon-steam-rising.517c09cb35144c66ca4e.gif",
+    "index.html": "/index.html",
+    "main.b3002168.css.map": "/static/css/main.b3002168.css.map",
+    "main.24475ab8.js.map": "/static/js/main.24475ab8.js.map",
+    "787.0834eab1.chunk.js.map": "/static/js/787.0834eab1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3002168.css",
+    "static/js/main.24475ab8.js"
+  ]
+}
